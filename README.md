@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Johnson Jiang
+- 👀 I’m interested in software modeling
+- 🌱 I’m currently learning Python
+- 📫 Feel free to reach me at johnsonjiang99@gmail.com
